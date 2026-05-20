@@ -1,0 +1,68 @@
+k,condition,run,outcome,count,path
+1,Baseline,run_01,ok,16992,/Users/andrewjones/Projects/masters-dissertation-project/scripts/riak/data_extraction/experiments/riak/k_001/baseline/run_01
+1,Baseline,run_02,ok,16759,/Users/andrewjones/Projects/masters-dissertation-project/scripts/riak/data_extraction/experiments/riak/k_001/baseline/run_02
+1,Baseline,run_03,ok,16812,/Users/andrewjones/Projects/masters-dissertation-project/scripts/riak/data_extraction/experiments/riak/k_001/baseline/run_03
+25,Baseline,run_1,ok,19925,/Users/andrewjones/Projects/masters-dissertation-project/scripts/riak/data_extraction/experiments/riak/k_025/baseline/run_1
+25,Baseline,run_2,ok,19861,/Users/andrewjones/Projects/masters-dissertation-project/scripts/riak/data_extraction/experiments/riak/k_025/baseline/run_2
+25,Baseline,run_3,ok,19959,/Users/andrewjones/Projects/masters-dissertation-project/scripts/riak/data_extraction/experiments/riak/k_025/baseline/run_3
+50,Baseline,run_1,ok,8669,/Users/andrewjones/Projects/masters-dissertation-project/scripts/riak/data_extraction/experiments/riak/k_050/baseline/run_1
+50,Baseline,run_2,ok,8539,/Users/andrewjones/Projects/masters-dissertation-project/scripts/riak/data_extraction/experiments/riak/k_050/baseline/run_2
+50,Baseline,run_3,ok,8658,/Users/andrewjones/Projects/masters-dissertation-project/scripts/riak/data_extraction/experiments/riak/k_050/baseline/run_3
+75,Baseline,run_1,ok,6326,/Users/andrewjones/Projects/masters-dissertation-project/scripts/riak/data_extraction/experiments/riak/k_075/baseline/run_1
+75,Baseline,run_1,timeout_or_slo_miss,9,/Users/andrewjones/Projects/masters-dissertation-project/scripts/riak/data_extraction/experiments/riak/k_075/baseline/run_1
+75,Baseline,run_2,ok,6316,/Users/andrewjones/Projects/masters-dissertation-project/scripts/riak/data_extraction/experiments/riak/k_075/baseline/run_2
+75,Baseline,run_2,timeout_or_slo_miss,10,/Users/andrewjones/Projects/masters-dissertation-project/scripts/riak/data_extraction/experiments/riak/k_075/baseline/run_2
+75,Baseline,run_3,ok,6261,/Users/andrewjones/Projects/masters-dissertation-project/scripts/riak/data_extraction/experiments/riak/k_075/baseline/run_3
+75,Baseline,run_3,timeout_or_slo_miss,24,/Users/andrewjones/Projects/masters-dissertation-project/scripts/riak/data_extraction/experiments/riak/k_075/baseline/run_3
+100,Baseline,run_1,ok,9427,/Users/andrewjones/Projects/masters-dissertation-project/scripts/riak/data_extraction/experiments/riak/k_100/baseline/run_1
+100,Baseline,run_1,timeout_or_slo_miss,665,/Users/andrewjones/Projects/masters-dissertation-project/scripts/riak/data_extraction/experiments/riak/k_100/baseline/run_1
+100,Baseline,run_2,ok,4788,/Users/andrewjones/Projects/masters-dissertation-project/scripts/riak/data_extraction/experiments/riak/k_100/baseline/run_2
+100,Baseline,run_2,timeout_or_slo_miss,289,/Users/andrewjones/Projects/masters-dissertation-project/scripts/riak/data_extraction/experiments/riak/k_100/baseline/run_2
+100,Baseline,run_3,ok,4662,/Users/andrewjones/Projects/masters-dissertation-project/scripts/riak/data_extraction/experiments/riak/k_100/baseline/run_3
+100,Baseline,run_3,timeout_or_slo_miss,371,/Users/andrewjones/Projects/masters-dissertation-project/scripts/riak/data_extraction/experiments/riak/k_100/baseline/run_3
+1,"Latency 100ms, jitter 30ms",run_01,ok,13576,/Users/andrewjones/Projects/masters-dissertation-project/scripts/riak/data_extraction/experiments/riak/k_001/latency_100ms_j50ms/run_01
+1,"Latency 100ms, jitter 30ms",run_02,ok,13558,/Users/andrewjones/Projects/masters-dissertation-project/scripts/riak/data_extraction/experiments/riak/k_001/latency_100ms_j50ms/run_02
+1,"Latency 100ms, jitter 30ms",run_03,ok,13532,/Users/andrewjones/Projects/masters-dissertation-project/scripts/riak/data_extraction/experiments/riak/k_001/latency_100ms_j50ms/run_03
+25,"Latency 100ms, jitter 30ms",run_1,ok,13186,/Users/andrewjones/Projects/masters-dissertation-project/scripts/riak/data_extraction/experiments/riak/k_025/latency_100ms_j50ms/run_1
+25,"Latency 100ms, jitter 30ms",run_2,ok,13151,/Users/andrewjones/Projects/masters-dissertation-project/scripts/riak/data_extraction/experiments/riak/k_025/latency_100ms_j50ms/run_2
+25,"Latency 100ms, jitter 30ms",run_2,timeout_or_slo_miss,9,/Users/andrewjones/Projects/masters-dissertation-project/scripts/riak/data_extraction/experiments/riak/k_025/latency_100ms_j50ms/run_2
+25,"Latency 100ms, jitter 30ms",run_3,ok,13141,/Users/andrewjones/Projects/masters-dissertation-project/scripts/riak/data_extraction/experiments/riak/k_025/latency_100ms_j50ms/run_3
+50,"Latency 100ms, jitter 30ms",run_1,ok,6732,/Users/andrewjones/Projects/masters-dissertation-project/scripts/riak/data_extraction/experiments/riak/k_050/latency_100ms_j50ms/run_1
+50,"Latency 100ms, jitter 30ms",run_1,timeout_or_slo_miss,25,/Users/andrewjones/Projects/masters-dissertation-project/scripts/riak/data_extraction/experiments/riak/k_050/latency_100ms_j50ms/run_1
+50,"Latency 100ms, jitter 30ms",run_2,ok,6809,/Users/andrewjones/Projects/masters-dissertation-project/scripts/riak/data_extraction/experiments/riak/k_050/latency_100ms_j50ms/run_2
+50,"Latency 100ms, jitter 30ms",run_2,timeout_or_slo_miss,15,/Users/andrewjones/Projects/masters-dissertation-project/scripts/riak/data_extraction/experiments/riak/k_050/latency_100ms_j50ms/run_2
+50,"Latency 100ms, jitter 30ms",run_3,ok,6820,/Users/andrewjones/Projects/masters-dissertation-project/scripts/riak/data_extraction/experiments/riak/k_050/latency_100ms_j50ms/run_3
+50,"Latency 100ms, jitter 30ms",run_3,timeout_or_slo_miss,20,/Users/andrewjones/Projects/masters-dissertation-project/scripts/riak/data_extraction/experiments/riak/k_050/latency_100ms_j50ms/run_3
+75,"Latency 100ms, jitter 30ms",run_1,ok,4908,/Users/andrewjones/Projects/masters-dissertation-project/scripts/riak/data_extraction/experiments/riak/k_075/latency_100ms_j50ms/run_1
+75,"Latency 100ms, jitter 30ms",run_1,timeout_or_slo_miss,410,/Users/andrewjones/Projects/masters-dissertation-project/scripts/riak/data_extraction/experiments/riak/k_075/latency_100ms_j50ms/run_1
+75,"Latency 100ms, jitter 30ms",run_2,ok,5750,/Users/andrewjones/Projects/masters-dissertation-project/scripts/riak/data_extraction/experiments/riak/k_075/latency_100ms_j50ms/run_2
+75,"Latency 100ms, jitter 30ms",run_2,timeout_or_slo_miss,25,/Users/andrewjones/Projects/masters-dissertation-project/scripts/riak/data_extraction/experiments/riak/k_075/latency_100ms_j50ms/run_2
+75,"Latency 100ms, jitter 30ms",run_3,ok,5146,/Users/andrewjones/Projects/masters-dissertation-project/scripts/riak/data_extraction/experiments/riak/k_075/latency_100ms_j50ms/run_3
+75,"Latency 100ms, jitter 30ms",run_3,timeout_or_slo_miss,311,/Users/andrewjones/Projects/masters-dissertation-project/scripts/riak/data_extraction/experiments/riak/k_075/latency_100ms_j50ms/run_3
+100,"Latency 100ms, jitter 30ms",run_1,ok,2980,/Users/andrewjones/Projects/masters-dissertation-project/scripts/riak/data_extraction/experiments/riak/k_100/latency_100ms_j50ms/run_1
+100,"Latency 100ms, jitter 30ms",run_1,timeout_or_slo_miss,1551,/Users/andrewjones/Projects/masters-dissertation-project/scripts/riak/data_extraction/experiments/riak/k_100/latency_100ms_j50ms/run_1
+100,"Latency 100ms, jitter 30ms",run_2,ok,3026,/Users/andrewjones/Projects/masters-dissertation-project/scripts/riak/data_extraction/experiments/riak/k_100/latency_100ms_j50ms/run_2
+100,"Latency 100ms, jitter 30ms",run_2,timeout_or_slo_miss,1541,/Users/andrewjones/Projects/masters-dissertation-project/scripts/riak/data_extraction/experiments/riak/k_100/latency_100ms_j50ms/run_2
+100,"Latency 100ms, jitter 30ms",run_3,ok,2628,/Users/andrewjones/Projects/masters-dissertation-project/scripts/riak/data_extraction/experiments/riak/k_100/latency_100ms_j50ms/run_3
+100,"Latency 100ms, jitter 30ms",run_3,timeout_or_slo_miss,1855,/Users/andrewjones/Projects/masters-dissertation-project/scripts/riak/data_extraction/experiments/riak/k_100/latency_100ms_j50ms/run_3
+1,Packet loss 1% / 25,run_01,ok,16858,/Users/andrewjones/Projects/masters-dissertation-project/scripts/riak/data_extraction/experiments/riak/k_001/packetloss_1percent_25/run_01
+1,Packet loss 1% / 25,run_02,ok,16869,/Users/andrewjones/Projects/masters-dissertation-project/scripts/riak/data_extraction/experiments/riak/k_001/packetloss_1percent_25/run_02
+1,Packet loss 1% / 25,run_03,ok,16926,/Users/andrewjones/Projects/masters-dissertation-project/scripts/riak/data_extraction/experiments/riak/k_001/packetloss_1percent_25/run_03
+25,Packet loss 1% / 25,run_1,ok,19574,/Users/andrewjones/Projects/masters-dissertation-project/scripts/riak/data_extraction/experiments/riak/k_025/packetloss_1percent_25/run_1
+25,Packet loss 1% / 25,run_2,ok,19978,/Users/andrewjones/Projects/masters-dissertation-project/scripts/riak/data_extraction/experiments/riak/k_025/packetloss_1percent_25/run_2
+25,Packet loss 1% / 25,run_3,ok,19965,/Users/andrewjones/Projects/masters-dissertation-project/scripts/riak/data_extraction/experiments/riak/k_025/packetloss_1percent_25/run_3
+50,Packet loss 1% / 25,run_1,ok,8644,/Users/andrewjones/Projects/masters-dissertation-project/scripts/riak/data_extraction/experiments/riak/k_050/packetloss_1percent_25/run_1
+50,Packet loss 1% / 25,run_2,ok,8630,/Users/andrewjones/Projects/masters-dissertation-project/scripts/riak/data_extraction/experiments/riak/k_050/packetloss_1percent_25/run_2
+50,Packet loss 1% / 25,run_3,ok,8566,/Users/andrewjones/Projects/masters-dissertation-project/scripts/riak/data_extraction/experiments/riak/k_050/packetloss_1percent_25/run_3
+75,Packet loss 1% / 25,run_1,ok,6615,/Users/andrewjones/Projects/masters-dissertation-project/scripts/riak/data_extraction/experiments/riak/k_075/packetloss_1percent_25/run_1
+75,Packet loss 1% / 25,run_1,timeout_or_slo_miss,29,/Users/andrewjones/Projects/masters-dissertation-project/scripts/riak/data_extraction/experiments/riak/k_075/packetloss_1percent_25/run_1
+75,Packet loss 1% / 25,run_2,ok,6715,/Users/andrewjones/Projects/masters-dissertation-project/scripts/riak/data_extraction/experiments/riak/k_075/packetloss_1percent_25/run_2
+75,Packet loss 1% / 25,run_2,timeout_or_slo_miss,11,/Users/andrewjones/Projects/masters-dissertation-project/scripts/riak/data_extraction/experiments/riak/k_075/packetloss_1percent_25/run_2
+75,Packet loss 1% / 25,run_3,ok,6659,/Users/andrewjones/Projects/masters-dissertation-project/scripts/riak/data_extraction/experiments/riak/k_075/packetloss_1percent_25/run_3
+75,Packet loss 1% / 25,run_3,timeout_or_slo_miss,10,/Users/andrewjones/Projects/masters-dissertation-project/scripts/riak/data_extraction/experiments/riak/k_075/packetloss_1percent_25/run_3
+100,Packet loss 1% / 25,run_1,ok,4889,/Users/andrewjones/Projects/masters-dissertation-project/scripts/riak/data_extraction/experiments/riak/k_100/packetloss_1percent_25/run_1
+100,Packet loss 1% / 25,run_1,timeout_or_slo_miss,225,/Users/andrewjones/Projects/masters-dissertation-project/scripts/riak/data_extraction/experiments/riak/k_100/packetloss_1percent_25/run_1
+100,Packet loss 1% / 25,run_2,ok,5017,/Users/andrewjones/Projects/masters-dissertation-project/scripts/riak/data_extraction/experiments/riak/k_100/packetloss_1percent_25/run_2
+100,Packet loss 1% / 25,run_2,timeout_or_slo_miss,170,/Users/andrewjones/Projects/masters-dissertation-project/scripts/riak/data_extraction/experiments/riak/k_100/packetloss_1percent_25/run_2
+100,Packet loss 1% / 25,run_3,ok,4973,/Users/andrewjones/Projects/masters-dissertation-project/scripts/riak/data_extraction/experiments/riak/k_100/packetloss_1percent_25/run_3
+100,Packet loss 1% / 25,run_3,timeout_or_slo_miss,231,/Users/andrewjones/Projects/masters-dissertation-project/scripts/riak/data_extraction/experiments/riak/k_100/packetloss_1percent_25/run_3

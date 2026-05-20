@@ -1,0 +1,25 @@
+Method,Name,Error,Occurrences
+FANOUT,K1,Exception('subread_error: completed=0/1 errors=1'),21
+FANOUT,K1,Exception('timeout_or_slo_miss: completed=0/1 errors=0 elapsed_ms=1000.0'),60
+FANOUT,K1,Exception('timeout_or_slo_miss: completed=0/1 errors=0 elapsed_ms=1001.3'),1
+FANOUT,K1,Exception('timeout_or_slo_miss: completed=0/1 errors=0 elapsed_ms=1001.0'),225
+FANOUT,K1,Exception('timeout_or_slo_miss: completed=0/1 errors=0 elapsed_ms=1002.2'),1
+FANOUT,K1,Exception('timeout_or_slo_miss: completed=0/1 errors=0 elapsed_ms=1003.3'),2
+FANOUT,K1,Exception('timeout_or_slo_miss: completed=0/1 errors=0 elapsed_ms=1000.3'),277
+FANOUT,K1,Exception('timeout_or_slo_miss: completed=0/1 errors=0 elapsed_ms=1000.7'),264
+FANOUT,K1,Exception('timeout_or_slo_miss: completed=0/1 errors=0 elapsed_ms=1000.6'),272
+FANOUT,K1,Exception('timeout_or_slo_miss: completed=0/1 errors=0 elapsed_ms=1000.8'),265
+FANOUT,K1,Exception('timeout_or_slo_miss: completed=0/1 errors=0 elapsed_ms=999.9'),4
+FANOUT,K1,Exception('timeout_or_slo_miss: completed=0/1 errors=0 elapsed_ms=1000.9'),254
+FANOUT,K1,Exception('timeout_or_slo_miss: completed=0/1 errors=0 elapsed_ms=1002.1'),2
+FANOUT,K1,Exception('timeout_or_slo_miss: completed=0/1 errors=0 elapsed_ms=1001.9'),1
+FANOUT,K1,Exception('timeout_or_slo_miss: completed=0/1 errors=0 elapsed_ms=1001.2'),6
+FANOUT,K1,Exception('timeout_or_slo_miss: completed=0/1 errors=0 elapsed_ms=1000.1'),269
+FANOUT,K1,Exception('timeout_or_slo_miss: completed=0/1 errors=0 elapsed_ms=1001.1'),30
+FANOUT,K1,Exception('timeout_or_slo_miss: completed=0/1 errors=0 elapsed_ms=1003.0'),2
+FANOUT,K1,Exception('timeout_or_slo_miss: completed=0/1 errors=0 elapsed_ms=1000.5'),273
+FANOUT,K1,Exception('timeout_or_slo_miss: completed=0/1 errors=0 elapsed_ms=1000.4'),277
+FANOUT,K1,Exception('timeout_or_slo_miss: completed=0/1 errors=0 elapsed_ms=1001.7'),1
+FANOUT,K1,Exception('timeout_or_slo_miss: completed=0/1 errors=0 elapsed_ms=999.8'),2
+FANOUT,K1,Exception('timeout_or_slo_miss: completed=0/1 errors=0 elapsed_ms=1000.2'),283
+FANOUT,K1,Exception('timeout_or_slo_miss: completed=0/1 errors=0 elapsed_ms=1002.7'),1

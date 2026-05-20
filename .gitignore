@@ -1,0 +1,21 @@
+# Environment files
+.env
+*.env
+.env.*
+
+# Python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+.idea
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+
+# Keys
+*.pem
+*.key
